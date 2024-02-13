@@ -17,7 +17,7 @@ Welcome to the Microservice Series: This repository serves as a starting point f
     cd Microservice-series-helloworld
     ```
 
-3. Follow the instructions provided in the blog: emmanuella.hashnode.dev
+3. Follow the instructions provided in the blog: https://emmanuella.hashnode.dev/
 
 ## Contributing
 
